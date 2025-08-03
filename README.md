@@ -26,8 +26,6 @@ This automation script performs interaction with the MakeMyTrip website to selec
 
 ![Demo GIF](MakeMyTripCalendarAutomation.gif)
 
-*Note: Save the above GIF with this filename in the root directory of your repo.*
-
 ---
 
 ## 📂 Project Structure
