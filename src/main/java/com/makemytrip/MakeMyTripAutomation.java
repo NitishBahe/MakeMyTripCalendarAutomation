@@ -104,8 +104,6 @@ public class MakeMyTripAutomation {
 		int targetYear = targetDate.getYear();
 		System.out.println(targetYear);
 
-		// System.out.println("//div[text()='August
-		// 2025']//ancestor::div[@class='DayPicker-Month']");
 		System.out.println(
 				"//div[text()='" + targetMonth + " " + targetYear + "']//ancestor::div[@class='DayPicker-Month']");
 
